@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Cstrike MOTD</title>
+<style type="text/css">
+       body {
+            background: #000;
+            margin: 8px;
+            color: #FFB000;
+            font: normal 16px/20px Verdana, Tahoma, sans-serif;
+        }
+
+        a {
+            color: #FFF;
+            text-decoration: underline;
+        }
+
+        a:hover {
+            color: #EEE;
+            text-decoration: none;
+        }
+	
+        .centered {
+            text-align: center;
+        }
+</style>
+</head>
+<body>
+	<p class="centered">Welcome to premium kz_longjumps2 100aa server</p>
+	<br><br>
+
+<!--	<img src="motd_image1.jpg" width="20%" height="20%" style="display: block; margin: 0 auto;"><br>	-->
+	<img src="motd_image2.jpg" width="40%" height="40%" style="display: block; margin: 0 auto;"><br>	
+	
+</body>
+</html>
